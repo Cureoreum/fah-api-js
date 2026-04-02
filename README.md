@@ -2,9 +2,8 @@
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/foldingathome-api/blob/main/LICENSE)
-[![npm](https://img.shields.io/badge/npm-publish-success.svg)](https://www.npmjs.com/package/foldingathome-api)
 
-A Node.js CommonJS utility for interacting with the [Folding@home Public API](https://foldingathome.org/folding-at-home-public-api/). This library provides a clean, modular interface to access project data, user statistics, team information, GPU data, and account management endpoints.
+A Node.js CommonJS utility for interacting with the [Folding@home Public API](https://api.foldingathome.org/). This library provides a clean, modular interface to access project data, user statistics, team information, GPU data, and account management endpoints.
 
 ## Features
 
@@ -232,12 +231,12 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Credits
 
 - **Folding@home API** - [foldingathome.org](https://foldingathome.org/)
-- **OpenAPI Specification v2.0.0** - Based on [Folding@home Public API](https://foldingathome.org/folding-at-home-public-api/)
+- **OpenAPI Specification v2.0.0** - Based on [Folding@home Public API](https://api.foldingathome.org/)
 - **Author** - Triii Technologies LLC / Cureoreum
 
 ## Acknowledgments
 
-This library is provided as-is for educational and research purposes. Please follow Folding@home's [API Usage Guidelines](https://foldingathome.org/folding-at-home-public-api/) when using the API.
+This library is provided as-is for educational and research purposes. Please follow Folding@home's [API Usage Guidelines](https://api.foldingathome.org/) when using the API.
 
 ---
 
