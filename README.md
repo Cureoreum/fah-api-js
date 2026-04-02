@@ -233,7 +233,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 - **Folding@home API** - [foldingathome.org](https://foldingathome.org/)
 - **OpenAPI Specification v2.0.0** - Based on [Folding@home Public API](https://foldingathome.org/folding-at-home-public-api/)
-- **Author** - Your Name / Your Organization
+- **Author** - Triii Technologies LLC / Cureoreum
 
 ## Acknowledgments
 
